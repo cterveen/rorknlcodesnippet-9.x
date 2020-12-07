@@ -1,0 +1,9 @@
+name: CodeSnippet (rork.nl)
+type: module
+description: CodeSnippet language list modification for www.rork.nl
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: CKEditor
+
+dependencies:
+  - drupal:codesnippet
