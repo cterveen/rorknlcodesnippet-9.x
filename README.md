@@ -6,9 +6,9 @@ rorknlcodesnippet-9.x
 
 rorknlcodesnippet-9.x is a Drupal 9 module to addapt the CodeSnippet language list for www.rork.nl. It is meant to customize the list of languages which can be selected for that website.
 
-The module is up to date. No options or help page are available. Internationalisation and localisation is not intended. The module is not in the Drupal module repository.
+The module is stable and has been used. No options or help page are available. Internationalisation and localisation is not intended. The module is not in the Drupal module repository.
 
-The module is currently in use. Further development is intended.
+Further development is intended.
 
 ## Installation
 
@@ -26,8 +26,9 @@ It's probably best to adapt the list for personal use.
 
 ## Credits
 
-Example code was taken from the CodeSnippet Drupal module page and adapted for personal needs.  
-<https://www.drupal.org/project/codesnippet>
+Written by Christiaan ter Veen <https://www.rork.nl/>
+
+Example code was taken from the CodeSnippet Drupal module page and adapted for personal needs. <https://www.drupal.org/project/codesnippet>
 
 Depends on
 
